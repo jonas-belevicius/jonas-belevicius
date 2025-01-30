@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Jonas and I am a research scientist who is also started to develop in data science. My daily tasks are related to cancer research and exploration of human genome. However, I am also interested in socio-economics and politics. My connection with data started in the bachelors studies of molecular biology and has not stopped yet. My latest achievement - finishing data science course @TuringCollege where I improved my Python skills and aquired new knowledge in deep learning.
+My name is Jonas, and I am a research scientist expanding my expertise into data science. My work primarily focuses on cancer research and human genome exploration. Beyond that, I have a strong interest in socio-economics and politics. My journey with data began during my bachelor's studies in molecular biology and has continued ever since. Most recently, I completed a data science course at Turing College, where I refined my Python skills and gained valuable knowledge in deep learning.
 
 ## 💡What I Do
 
